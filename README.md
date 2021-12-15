@@ -24,4 +24,5 @@
 ![image](https://img.shields.io/static/v1?message=Yarn%20pkg&color=2C8EBB&labelColor=2C8EBB&logo=yarn&logoColor=FFF&label=")
 ![image](https://img.shields.io/static/v1?message=WebRTC&color=333333&labelColor=333333&logo=webrtc&logoColor=FFF&label=)
 ![image](https://img.shields.io/static/v1?message=Azure&color=0089D6&labelColor=0089D6&logo=microsoft-azure&logoColor=FFF&label=)
+![image](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
 ![image](https://img.shields.io/static/v1?message=VS%20Code&color=007ACC&labelColor=007ACC&logo=visual-studio-code&logoColor=FFF&label=)
