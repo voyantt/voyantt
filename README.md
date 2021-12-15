@@ -11,6 +11,10 @@
 ![image](https://img.shields.io/static/v1?message=TypeScript&color=3178C6&labelColor=3178C6&logo=typescript&logoColor=FFF&label=)
 ![image](https://img.shields.io/static/v1?message=Go&color=00ADD8&labelColor=00ADD8&logo=go&logoColor=FFF&label=)
 
+#### Degrees
+Teleric Academy: ![image](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)
+SoftUni: ![image](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
+
 #### Frameworks
 ![image](https://img.shields.io/static/v1?message=React&color=61DAFB&labelColor=61DAFB&logo=react&logoColor=000&label=)
 
