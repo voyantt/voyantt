@@ -4,7 +4,7 @@
 
 - 📚 Student
 - 🌍 I'm mostly active within the **Discord Community**
-- 🎫 Discord: `Kinshi#9999`
+- 🎫 Discord: `voyant#9999`
 
 #### Programming Languages
 ![image](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)
