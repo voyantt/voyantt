@@ -13,7 +13,7 @@
 ![image](https://img.shields.io/static/v1?message=TypeScript&color=3178C6&labelColor=3178C6&logo=typescript&logoColor=FFF&label=)
 ![image](https://img.shields.io/static/v1?message=Go&color=00ADD8&labelColor=00ADD8&logo=go&logoColor=FFF&label=)
 
-#### Degrees
+#### Certifications
 Telerik Academy: ![image](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)  
 Software University: ![image](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
 
