@@ -3,7 +3,7 @@
 #### I'm mainly a back-end developer, freelancer and student
 
 - 📚 Student
-- 🌍 I'm mostly active within the **Discord Community**
+- 🌍 I'm mostly active on Discord
 - 🎫 Discord: `voyant#9999`
 
 #### Programming Languages
@@ -13,7 +13,7 @@
 
 #### Degrees
 Telerik Academy: ![image](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)  
-SoftUni: ![image](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
+Software University: ![image](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
 
 #### Frameworks
 ![image](https://img.shields.io/static/v1?message=React&color=61DAFB&labelColor=61DAFB&logo=react&logoColor=000&label=)
