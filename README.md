@@ -6,6 +6,8 @@
 - 🌍 I'm mostly active on Discord
 - 🎫 Discord: `voyant#9999`
 
+![](https://komarev.com/ghpvc/?username=voyantt&color=blueviolet)
+
 #### Programming Languages
 ![image](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)
 ![image](https://img.shields.io/static/v1?message=TypeScript&color=3178C6&labelColor=3178C6&logo=typescript&logoColor=FFF&label=)
