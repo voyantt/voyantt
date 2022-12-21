@@ -12,6 +12,7 @@
 ![](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)
 ![](https://img.shields.io/static/v1?message=TypeScript&color=3178C6&labelColor=3178C6&logo=typescript&logoColor=FFF&label=)
 ![](https://img.shields.io/static/v1?message=Go&color=00ADD8&labelColor=00ADD8&logo=go&logoColor=FFF&label=)
+<code><img height="20" alt="react" src="https://skillicons.dev/icons?i=js"></code>
 
 #### Certifications
 Telerik Academy: ![](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)  
