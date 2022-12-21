@@ -4,33 +4,40 @@
 
 - 📚 Student
 - 🌍 I'm mostly active on Discord
-- 🎫 Discord: `voyant#9999`
+- 🎫 Contact me: `voyant#9999`
 
 ![](https://komarev.com/ghpvc/?username=voyantt&color=blueviolet)
 
-#### Programming Languages
+#### Skilled at
 <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=arduino"></code>
 
 #### Certifications
-Telerik Academy: ![](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=)  
-Software University: ![](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
+Telerik Academy: <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
+Software University: <code><img height="20" src="https://skillicons.dev/icons?i=aws"></code>
 
 #### Frameworks
-![](https://img.shields.io/static/v1?message=React&color=61DAFB&labelColor=61DAFB&logo=react&logoColor=000&label=)
+<code><img height="20" src="https://skillicons.dev/icons?i=nextjs"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=react"></code>
 
 #### Databases
-![](https://img.shields.io/static/v1?message=MySQL&color=4479A1&labelColor=4479A1&logo=mysql&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=MongoDB&color=47A248&labelColor=47A248&logo=mongodb&logoColor=FFF&label=)
+<code><img height="20" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=mongodb"></code>
 
 #### Tools
-![](https://img.shields.io/static/v1?message=Next%20JS&color=000&labelColor=000&logo=next.js&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=React&color=61DBFB&labelColor=61DBFB&logo=react&logoColor=000&label=)
-![](https://img.shields.io/static/v1?message=Socket.IO&color=000&labelColor=000&logo=socket.io&logoColor=fff&label=)
-![](https://img.shields.io/static/v1?message=Node.js&color=339933&labelColor=339933&logo=Node.js&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=NPM&color=CB3837&labelColor=CB3837&logo=NPM&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=Yarn%20pkg&color=2C8EBB&labelColor=2C8EBB&logo=yarn&logoColor=FFF&label=")
-![](https://img.shields.io/static/v1?message=WebRTC&color=333333&labelColor=333333&logo=webrtc&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=Azure&color=0089D6&labelColor=0089D6&logo=microsoft-azure&logoColor=FFF&label=)
-![](https://img.shields.io/static/v1?message=AWS&color=e69500&labelColor=e69500&logo=amazon-aws&logoColor=FFFD&label=)
-![](https://img.shields.io/static/v1?message=VS%20Code&color=007ACC&labelColor=007ACC&logo=visual-studio-code&logoColor=FFF&label=)
+<code><img height="20" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=electron"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=express"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=md"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=vercel"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=bash"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=azure"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=aws"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=cloudflare"></code>
