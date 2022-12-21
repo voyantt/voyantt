@@ -15,7 +15,7 @@
 <code><img height="20" src="https://skillicons.dev/icons?i=arduino"></code>
 
 #### Certifications
-Telerik Academy: <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
+Telerik Academy: <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>  
 Software University: <code><img height="20" src="https://skillicons.dev/icons?i=aws"></code>
 
 #### Frameworks
