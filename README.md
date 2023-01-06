@@ -6,7 +6,7 @@
 - 🌍 I'm mostly active on Discord
 - 🎫 Contact me: `voyant#9999`
 
-![](https://komarev.com/ghpvc/?username=voyantt&color=blueviolet)
+![](https://count.getloli.com/get/@voyantt?theme=gelbooru)
 
 #### Skilled at
 <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
