@@ -4,7 +4,7 @@
 
 - 📚 Student
 - 🌍 I'm mostly active on Discord
-- 🎫 Contact me: `voyant#9999`
+- 🎫 Contact me: [`.w4std`](https://discordapp.com/users/244531995177254912)
 
 ![](https://count.getloli.com/get/@voyantt?theme=gelbooru)
 
