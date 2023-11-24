@@ -4,7 +4,7 @@
 
 - 📚 Student
 - 🌍 I'm mostly active on Discord
-- 🎫 Contact me: <a href="https://discordapp.com/users/244531995177254912" target="_blank">[`.w4std`]</a>
+- 🎫 Contact me: <a href="https://discordapp.com/users/244531995177254912" target="_blank">`.w4std`</a>
 
 ![](https://count.getloli.com/get/@voyantt?theme=gelbooru)
 
