@@ -3,7 +3,7 @@
 #### I'm mainly a back-end developer, freelancer and student
 
 - 📚 Student
-- 🎫 Contact me on Discord: <a href="https://discordapp.com/users/244531995177254912" target="_blank">`.w4std`</a>
+- 🎫 Contact me on Discord: <a href="https://discordapp.com/users/244531995177254912" target="_blank">`voyunt`</a>
 
 ![](https://count.getloli.com/get/@voyantt?theme=gelbooru)
 
