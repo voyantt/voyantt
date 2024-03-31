@@ -1,7 +1,5 @@
 ## Hi, I'm Voyant
 
-#### I'm mainly a back-end developer, freelancer and student
-
 - 📚 Student
 - 🎫 Contact me on Discord: <a href="https://discordapp.com/users/244531995177254912" target="_blank">`voyunt`</a>
 
